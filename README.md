@@ -2,7 +2,7 @@
 
 ## 목차
 
-[ Chapter 0. 시작하며 ]([./docs/Assignment #01.md](https://github.com/odri19995/IT-dictionary/blob/main/docs/Assignment%20%2301.md))
+[ Chapter 0. 시작하며 ](https://github.com/odri19995/IT-dictionary/blob/main/docs/Assignment%20%2301.md)
 
 [ Chapter 1. 1장 깨끗한 코드](./docs/Chapter01.md)
 
