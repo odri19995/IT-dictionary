@@ -4,7 +4,7 @@
 
 [Assignment 01](https://github.com/odri19995/IT-dictionary/blob/main/docs/Assignment%20%2301.md)
 
-[Assignment 02](./docs/Chapter01.md)
+[Assignment 02](https://github.com/odri19995/IT-dictionary/blob/main/docs/Assignment%20%2302.md)
 
 [ Chapter 2. 2장 의미있는 이름 ](./docs/Chapter02.md)
 
