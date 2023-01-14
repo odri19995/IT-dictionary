@@ -85,3 +85,20 @@ https://nomadcoders.co/community/thread/6148(https://nomadcoders.co/community/th
 ## TIL (Today I Learned) 날짜
   
   ### 2023.01.14
+  
+***
+
+### 추가로 정리하는 마크다운 문법
+목차를 만들 때 마크다운 문법 중
+![image](https://user-images.githubusercontent.com/103614919/212461861-e530639c-5353-43e5-802f-0d59dd0d942e.png)
+“링크” 부분에 url이 아닌 같은 문서 내의 내용으로 연결하는 방법이다.
+
+이때 괄호 안의 링크안에 쓸때는
+1. 띄어쓰기는 - 로 연결해준다. 2. 영어는 모두 소문자로 작성한다. 3. ? , 같은 특수문자는 인식을 못하니 빼주면 알아서 찾아간다.
+
+출처 https://png93.github.io/markdown-link/#%EA%B0%9C%EB%B0%9C%EC%9D%84-%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94(https://png93.github.io/markdown-link/#%EA%B0%9C%EB%B0%9C%EC%9D%84-%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94)
+
+  
+  
+  
+  
