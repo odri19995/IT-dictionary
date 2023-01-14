@@ -89,8 +89,8 @@ https://nomadcoders.co/community/thread/6148(https://nomadcoders.co/community/th
 ***
 
 ### 추가로 정리하는 마크다운 문법
-목차를 만들 때 마크다운 문법 중
-![image](https://user-images.githubusercontent.com/103614919/212461861-e530639c-5353-43e5-802f-0d59dd0d942e.png)
+목차를 만들 때 마크다운 문법 중<br><br>
+![image](https://user-images.githubusercontent.com/103614919/212461861-e530639c-5353-43e5-802f-0d59dd0d942e.png)<br><br>
 “링크” 부분에 url이 아닌 같은 문서 내의 내용으로 연결하는 방법이다.
 
 이때 괄호 안의 링크안에 쓸때는
