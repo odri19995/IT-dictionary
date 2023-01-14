@@ -2,9 +2,9 @@
 
 ## 목차
 
-[Assignment 01](https://github.com/odri19995/IT-dictionary/blob/main/docs/Assignment%20%2301.md)
+[Assignment 01 - 책 인증하기](https://github.com/odri19995/IT-dictionary/blob/main/docs/Assignment%20%2301.md)
 
-[Assignment 02](https://github.com/odri19995/IT-dictionary/blob/main/docs/Assignment%20%2302.md)
+[Assignment 02 - ep01 ~ ep05](https://github.com/odri19995/IT-dictionary/blob/main/docs/Assignment%20%2302.md)
 
 [ Chapter 2. 2장 의미있는 이름 ](./docs/Chapter02.md)
 
