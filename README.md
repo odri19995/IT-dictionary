@@ -6,7 +6,7 @@
 
 [Assignment 02 - Ep01 ~ Ep05](https://github.com/odri19995/IT-dictionary/blob/main/docs/Assignment%20%2302.md)
 
-[ Chapter 2. 2장 의미있는 이름 ](./docs/Chapter02.md)
+[Assignment 03 - Ep06 ~ Ep10](https://github.com/odri19995/IT-dictionary/blob/main/docs/Assignment%20%2303.md)
 
 [ Chapter 3. 3장 함수 ](./docs/Chapter03.md)
 
