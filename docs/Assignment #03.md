@@ -88,9 +88,9 @@
 ***
 
 ## 오늘 읽은 다른사람의 TIL
-https://nomadcoders.co/community/thread/6270
-https://nomadcoders.co/community/thread/6268
-https://nomadcoders.co/community/thread/6264
+https://nomadcoders.co/community/thread/6270  
+https://nomadcoders.co/community/thread/6268  
+https://nomadcoders.co/community/thread/6264  
 
 
 
