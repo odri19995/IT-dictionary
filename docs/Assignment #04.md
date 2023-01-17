@@ -115,8 +115,8 @@ API를 한번 직접 개발해 보는 것도 좋은 경험이다.
 
 ## 오늘 읽은 다른사람의 TIL
 https://nomadcoders.co/community/thread/6401  
-https://nomadcoders.co/community/thread/6396
-https://nomadcoders.co/community/thread/6264  
+https://nomadcoders.co/community/thread/6396  
+https://nomadcoders.co/community/thread/6383
 
 
 
