@@ -84,6 +84,7 @@ API를 한번 직접 개발해 보는 것도 좋은 경험이다.
 - 한 회사가 코드를 독점하는 것은 좋지 않은 결과를 불러오는 사례를 보았기  때문에 되도록 나도 코드를 짜게 되면 여러 사람에게 공유해야 겠다는 생각을 했다.
 - 우리가 편리하게 웹사이트를 찾아갈 수 있는 것은 도메인 시스템 덕분이지만 내가 레지스트리를 직접 운영하는 일은 없을거 같다는 생각이 든다.
 - 공부 할 때는 기간을 정해두고 하는 것이 좋겠다는 생각이 들었다. 
+- adobe flash 많이 봤었는데 사라졌다니 기술의 발전은 참 빠르다는 생각이 든다.
 <br>
 <br>
 <br>
@@ -113,7 +114,7 @@ API를 한번 직접 개발해 보는 것도 좋은 경험이다.
 ***
 
 ## 오늘 읽은 다른사람의 TIL
-https://nomadcoders.co/community/thread/6270  
+https://nomadcoders.co/community/thread/6401  
 https://nomadcoders.co/community/thread/6268  
 https://nomadcoders.co/community/thread/6264  
 
