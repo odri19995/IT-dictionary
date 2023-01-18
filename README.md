@@ -10,16 +10,14 @@
 
 [Assignment 04 - Ep11 ~ Ep15](https://github.com/odri19995/IT-dictionary/blob/main/docs/Assignment%20%2304.md)
 
-[ Chapter 4. 4장 주석 ](./docs/Chapter04.md)
+[Assignment 05 - Ep16 ~ Ep21](https://github.com/odri19995/IT-dictionary/blob/main/docs/Assignment%20%2305.md)
 
-[ Chapter 5. 5장 형식 맞추기 ](./docs/Chapter05.md)
+[Assignment 06 - Ep22 ~ Ep25 ](./docs/Chapter05.md)
 
-[ Chapter 6. 6장 객체와 자료 구조 ](./docs/Chapter06.md)
+[Assignment 07 - Ep26 ~ Ep29](./docs/Chapter06.md)
 
-[ Chapter 7. 7장 오류 처리 ](./docs/Chapter07.md)
+[Assignment 08 - Ep30 ~ Ep34](./docs/Chapter07.md)
 
-[ Chapter 8. 8장 경계 ](./docs/Chapter08.md)
+[Assignment 09 - Ep35 ~ Ep38 ](./docs/Chapter08.md)
 
-[ Chapter 9. 9장 단위 테스트 ](./docs/Chapter09.md)
-
-[ Chapter 10. 10장 클래스 ](./docs/Chapter10.md)
+[Assignment 10 - Ep39 ~ Ep45 ](./docs/Chapter09.md)
