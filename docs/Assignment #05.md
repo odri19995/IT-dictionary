@@ -53,6 +53,7 @@
 - 풀 스택 개발자라도 모든 영역을 다 개발해야 하는 것은 다르다.
 
 - 서버는 서버스 역할을 하는 컴퓨터를 의미한다. 예) 주소가 입력되면 그에 맞는 웹 페이지를 꺼내서 보여준다.
+- 서버의 외부 모습: 모니터가 없거나 1개만 있다. 항상 인터넷에 연결되어 있다. 저장소와 메모리 크기는 모두 어마어마하다.<br><br>
 
 - 서버리스는 서버 없음이 아니라 우리가 직접 관리하지 않는 서버를 의미한다.
 - 아마존의 EC2 엘라스틱 컴퓨트 클라우드는 서버를 아마존이 대신 운영해 주는 서비스이다. <br>
@@ -99,9 +100,9 @@
 ***
 
 ## 오늘 읽은 다른사람의 TIL
-https://nomadcoders.co/community/thread/6512
-https://nomadcoders.co/community/thread/6396  
-https://nomadcoders.co/community/thread/6383
+https://nomadcoders.co/community/thread/6512  
+https://nomadcoders.co/community/thread/6498   
+https://nomadcoders.co/community/thread/6505  
 
 
 
