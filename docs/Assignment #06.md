@@ -102,7 +102,7 @@
 
 ## 오늘 읽은 다른사람의 TIL
 https://aytekin.tistory.com/112  
-https://nomadcoders.co/community/thread/6616
+https://nomadcoders.co/community/thread/6616  
 https://nice-windscreen-850.notion.site/TIL-2023-01-19-33c2bc60772740a39e8ca3bfc9fdc29b
 
 
