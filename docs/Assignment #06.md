@@ -111,6 +111,6 @@ https://nice-windscreen-850.notion.site/TIL-2023-01-19-33c2bc60772740a39e8ca3bfc
 
 ## TIL (Today I Learned) 날짜
   
-  ### 2023.01.18
+  ### 2023.01.19
   
 ***
