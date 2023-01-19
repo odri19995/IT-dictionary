@@ -12,7 +12,7 @@
 
 [Assignment 05 - Ep16 ~ Ep21](https://github.com/odri19995/IT-dictionary/blob/main/docs/Assignment%20%2305.md)
 
-[Assignment 06 - Ep22 ~ Ep25 ](./docs/Chapter05.md)
+[Assignment 06 - Ep22 ~ Ep25 ](https://github.com/odri19995/IT-dictionary/blob/main/docs/Assignment%20%2306.md)
 
 [Assignment 07 - Ep26 ~ Ep29](./docs/Chapter06.md)
 
