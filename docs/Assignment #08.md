@@ -110,6 +110,6 @@ https://nomadcoders.co/community/thread/6714
 
 ## TIL (Today I Learned) 날짜
   
-  ### 2023.01.21
+  ### 2023.01.22
   
 ***
