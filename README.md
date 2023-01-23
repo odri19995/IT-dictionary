@@ -14,7 +14,7 @@
 
 [Assignment 06 - Ep22 ~ Ep25 ](https://github.com/odri19995/IT-dictionary/blob/main/docs/Assignment%20%2306.md)
 
-[Assignment 07 - Ep26 ~ Ep29](./docs/Chapter06.md)
+[Assignment 07 - Ep26 ~ Ep29](https://github.com/odri19995/IT-dictionary/blob/main/docs/Assignment%20%2307.md)
 
 [Assignment 08 - Ep30 ~ Ep34](https://github.com/odri19995/IT-dictionary/blob/main/docs/Assignment%20%2308.md)
 
