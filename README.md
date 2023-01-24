@@ -18,6 +18,6 @@
 
 [Assignment 08 - Ep30 ~ Ep34](https://github.com/odri19995/IT-dictionary/blob/main/docs/Assignment%20%2308.md)
 
-[Assignment 09 - Ep35 ~ Ep38 ](./docs/Chapter08.md)
+[Assignment 09 - Ep35 ~ Ep38 ](https://github.com/odri19995/IT-dictionary/blob/main/docs/Assignment%20%2309.md)
 
 [Assignment 10 - Ep39 ~ Ep45 ](./docs/Chapter09.md)
