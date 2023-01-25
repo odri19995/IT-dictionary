@@ -126,9 +126,9 @@
 ***
 
 ## 오늘 읽은 다른사람의 TIL
-https://nomadcoders.co/community/thread/6926    
-https://nomadcoders.co/community/thread/6921    
-https://nomadcoders.co/community/thread/6915
+https://nomadcoders.co/community/thread/7002    
+https://nomadcoders.co/community/thread/6999      
+https://nomadcoders.co/community/thread/7001
 
 ***
 
